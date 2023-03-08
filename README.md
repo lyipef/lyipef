@@ -1,6 +1,6 @@
 ### Olá eu sou Filipe Freitas!
 
-Seja bem-vindo ao meu Git, atualmente estou trabalhando como Analista de Dados pelo Grupo Oscar e meu roadmap é se tornar um Engenheiro de Dados, no meu dia a dia crio RPA, ETL, EDA e querys com SQL, utilizo diferentes tipos de API, módulos de Python como, Pandas, JSON, Requests, Pygsheets e muito mais. Tenho 22 anos e desde que me encontrei na oportunidade de ingressar nessa área de dados tão desafiadora, sinto cada vez mais entusiasmo. Consigo dizer que já aprendi muito, com muitas pessoas, especialmente duas, todos os dias, mas sei que ainda tenho um longo caminho a percorrer. 
+Seja bem-vindo ao meu Git, atualmente estou trabalhando como Analista de Dados pelo Grupo Oscar e continuo estudando para se tornar um Engenheiro de Dados, no meu dia a dia crio RPA, ETL, EDA e querys com SQL, utilizo diferentes tipos de API, módulos de Python como, Pandas, JSON, Requests, Pygsheets e muito mais. Tenho 22 anos e desde que me encontrei na oportunidade de ingressar nessa área de dados tão desafiadora, sinto cada vez mais entusiasmo. Consigo dizer que já aprendi muito, com muitas pessoas, especialmente duas, todos os dias, mas sei que ainda tenho um longo caminho a percorrer. 
 
 ##
 
